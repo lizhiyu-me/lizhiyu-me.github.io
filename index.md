@@ -1,7 +1,7 @@
 ## Lizhiyu
 
 ##### Hi, there!
-It's very nice to meet you.
+It's very glad to meet you.
 
 My name is Lizhiyu.zh_cn/SteffanLee.en_us.
 
