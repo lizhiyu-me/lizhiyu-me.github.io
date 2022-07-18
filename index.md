@@ -5,11 +5,11 @@ It's very glad to meet you.
 
 My name is Lizhiyu.zh_cn/SteffanLee.en_us.
 
-C++/JS/Web3D Full-Stack Developer.
+I like and make **cool** things.
 
-I like and make cool things.
+C++/JS/**Web3D** Full-Stack Developer.
 
-Currently obsessed in the multi-player boardgame.
+Currently obsessed in the multi-player **boardgame**.
 
 [Blog](https://lizhiyu.me)
 
