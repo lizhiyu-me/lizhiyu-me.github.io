@@ -3,7 +3,7 @@
 ##### Hi, there!
 It's very nice to meet you.
 
-My name is Lizhiyu.zh_cn/Steffan.en_us.
+My name is Lizhiyu.zh_cn/SteffanLee.en_us.
 
 C++/JS/Web3D Full-Stack Developer.
 
