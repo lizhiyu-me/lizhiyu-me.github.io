@@ -11,6 +11,7 @@ I like and make cool things.
 
 Currently obsessed in the multi-player boardgame.
 
+[Blog](https://lizhiyu.me)
 
 [Github](https://github.com/lizhiyu-me)
 
