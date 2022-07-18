@@ -11,6 +11,20 @@ C++/JS/**Web3D** Full-Stack Developer.
 
 Currently obsessed in the multi-player **boardgame**.
 
+<details>
+  <summary>Tech Stack</summary>
+  
+  ##### Front-End
+  1. React
+  2. Three.js
+  3. Babylon.js
+  3. Cocos Creator
+  ##### Back-End
+  1. Nest.js
+  2. BoardGame.io
+</details>
+
+---
 [Blog](https://lizhiyu.me)
 
 [Github](https://github.com/lizhiyu-me)
