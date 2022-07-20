@@ -3,26 +3,21 @@
 ##### Hi, there!
 It's very glad to meet you.
 
-My Chinese name is Lizhiyu, Steffan for English.
+I am Lizhiyu.
 
 I like and make **cool** things.
 
-TS/**Web3D** Full-Stack Developer.
+JS/TS/**Web3D** Full-Stack Developer.
 
 Currently obsessed in the multi-player **boardgame**.
 
-<details>
-
-  <summary>Tech Stack</summary>
-  
+### Tech Stack
   ##### Front-End
-  1. React.js
-  2. TailwindCSS
-  3. Three.js
+    1. React.js
+    2. TailwindCSS
+    3. Three.js
   ##### Back-End
-  1. Nest.js
-
-</details>
+    1. Node.js
 
 ---
 [Blog](https://lizhiyu.me)
