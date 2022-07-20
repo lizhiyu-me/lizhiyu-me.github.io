@@ -14,12 +14,13 @@ Currently obsessed in the multi-player **boardgame**.
 <details>
 
   <summary>Tech Stack</summary>
+  
   ##### Front-End
   1. React.js
-  2. Three.js
+  2. TailwindCSS
+  3. Three.js
   ##### Back-End
   1. Nest.js
-  2. Supabase
 
 </details>
 
