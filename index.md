@@ -3,26 +3,23 @@
 ##### Hi, there!
 It's very glad to meet you.
 
-My name is Lizhiyu.zh_cn/SteffanLee.en_us.
+My Chinese name is Lizhiyu, Steffan for English.
 
 I like and make **cool** things.
 
-C++/JS/**Web3D** Full-Stack Developer.
+TS/**Web3D** Full-Stack Developer.
 
 Currently obsessed in the multi-player **boardgame**.
 
 <details>
 
   <summary>Tech Stack</summary>
-
   ##### Front-End
-  1. React
+  1. React.js
   2. Three.js
-  3. Babylon.js
-  4. Cocos Creator
   ##### Back-End
   1. Nest.js
-  2. BoardGame.io
+  2. Supabase
 
 </details>
 
