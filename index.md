@@ -11,14 +11,6 @@ JS/TS/**Web3D** Full-Stack Developer.
 
 Currently obsessed in the multi-player **boardgame**.
 
-### Tech Stack
-  ##### Front-End
-    1. React.js
-    2. TailwindCSS
-    3. Three.js
-  ##### Back-End
-    1. Node.js
-
 ---
 [Blog](https://lizhiyu.me)
 
