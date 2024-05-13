@@ -1,15 +1,14 @@
 ## Lizhiyu
 
 ##### Hi, there!
-It's very glad to meet you.
 
 I am Lizhiyu.
 
-JS/TS/**Web3D** Full-Stack developer, occasional blogger,  constant twitter, **life-long learner**.
+**Web3D** Full-Stack developer, occasional blogger,  constant twitter, **life-long learner**.
 
-I like and make **cool** things.
+Svelte.js and Three.js
 
-Currently obsessed in the multi-player **boardgame**.
+Currently obsessed in **boardgame**.
 
 ---
 [Blog](https://lizhiyu.me)
