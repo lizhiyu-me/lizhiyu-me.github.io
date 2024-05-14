@@ -4,9 +4,9 @@
 
 I am Lizhiyu.
 
-**Web3D** Full-Stack developer, occasional blogger,  constant twitter, **life-long learner**.
+Full-Stack web game developer, occasional blogger,  constant twitter, **life-long learner**.
 
-Svelte.js and Three.js
+**Svelte.js and Phaser.js**
 
 Currently obsessed in **boardgame**.
 
