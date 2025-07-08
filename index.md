@@ -4,11 +4,9 @@
 
 I am Lizhiyu.
 
-Full-Stack web game developer, occasional blogger,  constant twitter, **life-long learner**.
+Full-Stack game developer, occasional blogger,  constant twitter, **life-long learner**.
 
 **Svelte.js and Pixi.js**
-
-Currently obsessed in **boardgame**.
 
 ---
 [Blog](https://lizhiyu.me)
