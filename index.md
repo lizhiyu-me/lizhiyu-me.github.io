@@ -6,7 +6,7 @@ I am Lizhiyu.
 
 Full-Stack game developer, occasional blogger,  constant twitter, **life-long learner**.
 
-**Svelte.js and Pixi.js**
+**Pixi.js & Svelte.js**
 
 ---
 [Blog](https://lizhiyu.me)
